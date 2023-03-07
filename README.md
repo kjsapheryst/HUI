@@ -6,4 +6,4 @@ Beginning code for HUI implementation. Does not contain final code used for PAPI
 ## Credits
 Created by Kiran Cornejo
 
-Created using Python and Tkinter library.
+Created using Python and Tkinter.
